@@ -17,7 +17,7 @@ HEIGHT = 400
 
 # Send the image with a telegram bot
 def telegram_bot_sendimg(image):
-    bot_token = os.getenv("") # Bot token name, to be entered by user
+    bot_token = os.getenv("BOT_TOKEN")
     chat_id = os.getenv("CHAT_ID")
 
     bio = BytesIO()
