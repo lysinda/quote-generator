@@ -6,6 +6,5 @@ To use:
 5. Run the script, you should receive a quote via Telegram. Can be run automatically by using Crontab and a Raspberry Pi
 
 
-All images are taken from unsplash.com
-
+All images are taken from unsplash.com\n
 Font: Dancing Script https://fonts.google.com/specimen/Dancing+Script
